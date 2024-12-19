@@ -7,7 +7,7 @@ This project is a comprehensive E-commerce Website built using HTML, CSS, and th
 
 ## Features
 
-### User Functionalities
+## User Functionalities
 #### Account Management:
 - Signup / Create Account
 - Login / Logout
@@ -25,7 +25,7 @@ This project is a comprehensive E-commerce Website built using HTML, CSS, and th
 - Place orders
 - View order status (delivered/pending)
 
-### Admin Functionalities
+## Admin Functionalities
 #### Account Management:
 - Login / Logout
 
@@ -37,7 +37,7 @@ This project is a comprehensive E-commerce Website built using HTML, CSS, and th
 #### Order Management:
 - View pending and completed orders
 
-### Delivery Personnel Functionalities
+## Delivery Personnel Functionalities
 #### Account Management:
 - Login / Logout
 
