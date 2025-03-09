@@ -117,8 +117,3 @@ Ecommerce-Website/
 - **Name:** Utsavi Hetukkumar Patel
 - **Email:** utsavipatel0905@gmail.com
 - **GitHub:** [github.com/utsavi_patel09](https://github.com/utsavi_patel09)
-
----
-
-Let me know if you’d like me to tweak anything or add more sections! 🚀
-
