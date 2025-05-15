@@ -107,10 +107,3 @@ Ecommerce-Website/
 ## 🖥 System Requirements
 - Install the packages listed in **requirements.txt**
 
-## 💡 Suggestions
-"Suggestions and project improvement ideas are welcomed!"
-
-## 📞 Contact
-- **Name:** Utsavi Hetukkumar Patel
-- **Email:** utsavipatel0905@gmail.com
-- **GitHub:** [github.com/utsavi_patel09](https://github.com/utsavi_patel09)
