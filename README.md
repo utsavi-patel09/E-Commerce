@@ -38,9 +38,6 @@ This project is a comprehensive **E-commerce Website** built using **HTML**, **C
   - View pending and completed orders
   - Update the status of products (delivered/pending)
 
-## 📸 Demo
-(Add demo details or screenshots if available)
-
 ## 🛠 Technologies Used
 - **Frontend:** HTML, CSS
 - **Backend:** Django
